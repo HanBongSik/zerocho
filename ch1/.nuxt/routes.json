@@ -1,0 +1,30 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\zerocho\\\\ch1\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_c34f7c98"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\zerocho\\\\ch1\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_758b6946"
+  },
+  {
+    "name": "user-zerocho",
+    "path": "/user/zerocho",
+    "component": "C:\\\\zerocho\\\\ch1\\\\pages\\\\user\\\\zerocho.vue",
+    "chunkName": "pages/user/zerocho",
+    "_name": "_54499ce2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\zerocho\\\\ch1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_740d051d"
+  }
+]
