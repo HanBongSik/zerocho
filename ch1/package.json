@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "axios": "^0.20.0",
     "nuxt": "^2.14.5",
-    "vue": "^2.6.12"
+    "vue": "^2.6.12",
+    "vuetify": "^2.3.10"
   }
 }
