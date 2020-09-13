@@ -1,6 +1,6 @@
 <template>
     <div>
-        Zerocho profile22
+        Zerocho profile22 
     </div>
 </template>
 <script>

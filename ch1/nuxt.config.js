@@ -9,7 +9,7 @@ module.exports = {
               content: '내가 커스텀한 설명',
             }
         ]
-    },
+    }, 
     modules: [
         '@nuxtjs/vuetify',
     ],

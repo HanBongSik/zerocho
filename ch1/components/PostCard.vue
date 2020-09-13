@@ -1,5 +1,5 @@
 <template>
-    <v-card style="margin-bottom:20px;">
+    <v-card style="margin-bottom:20px;"> 
         <v-image />
         <v-card-text>
             <div>

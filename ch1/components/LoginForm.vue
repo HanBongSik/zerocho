@@ -2,7 +2,7 @@
     <v-container>
         <v-card>
             <v-form>
-                <v-container>
+                <v-container> 
                     <v-text-field label="이메일" type="email" required></v-text-field>
                 </v-container>
                 

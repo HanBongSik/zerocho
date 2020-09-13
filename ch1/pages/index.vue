@@ -7,7 +7,7 @@
             <post-card />
             <post-card />
         </div>
-    </v-container>
+    </v-container> 
 </template>
 
 <script>

@@ -15,7 +15,7 @@
                     <v-subhead>팔로잉</v-subhead>
                     <follow-list></follow-list>
                 </v-container>
-            </v-card>
+            </v-card> 
             <v-card style="margin-bottom:20px;">
                 <v-container>
                     <v-subhead>팔로워</v-subhead>

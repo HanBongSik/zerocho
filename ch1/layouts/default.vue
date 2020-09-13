@@ -1,6 +1,6 @@
 <template>
     <v-app>
-        <nav>
+        <nav>  
             <v-toolbar dark color="green">
                 <v-toolbar-title>
                     <nuxt-link to="/" :style="{color:'#fff',textDecoration:'none'}">NodeBird</nuxt-link>

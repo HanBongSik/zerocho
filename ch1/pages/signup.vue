@@ -15,7 +15,7 @@
                     <v-checkbox required label="제로초 말을 잘 들을 것을 약속합니다." />
                     <v-btn color="green" type="submit">가입하기</v-btn>
                 </v-form>
-            </v-card>
+            </v-card> 
         </v-container>
     </div>
 </template>

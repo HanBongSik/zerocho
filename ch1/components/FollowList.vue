@@ -10,7 +10,7 @@
                 <v-icon>mdi-minus-circle-outline</v-icon>
             </li>
             <li>
-                <span>히어로</span>
+                <span>히어로</span> 
                 <v-icon>mdi-minus-circle-outline</v-icon>
             </li>
         </ul>
