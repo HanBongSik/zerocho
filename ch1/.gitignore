@@ -1,4 +1,5 @@
 node_modules/
+.nuxt
 .nuxt/
 /.nuxt/
 ch1/.nuxt
